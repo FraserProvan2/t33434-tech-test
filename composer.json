@@ -1,0 +1,15 @@
+{
+    "name": "fraserprovan/t33434-tech-test",
+    "description": "Simple pagination package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "FraserProvan2",
+            "email": "FraserProvan2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
